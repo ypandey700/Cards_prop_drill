@@ -63,11 +63,3 @@ Through this project, I learned:
 - Form handling with React Hook Form
 - Updating and deleting data in React state
 
-## Future Improvements
-
-- Edit card functionality
-- Search users
-- Local storage support
-- Card animations
-- Form validation
-- Backend integration
